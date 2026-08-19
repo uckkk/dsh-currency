@@ -8,3 +8,9 @@
 dsh plugin add dsh-currency
 ```
 安装后在 profile 的 `package.json` 的 `dsh.profile.bundles` 中加入 `"dsh-currency"`。
+
+## 安装
+
+```bash
+dsh plugin add github:uckkk/dsh-currency
+```
